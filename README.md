@@ -1,3 +1,4 @@
+This is my first big projects that I have ever created and learn alot from it.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
